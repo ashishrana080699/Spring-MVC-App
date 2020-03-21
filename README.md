@@ -1,2 +1,2 @@
 # Spring-MVC-App
-My first Spring MVC Application To do Addition of two numbers.
+My first Spring MVC Application using Maven dependencies.
